@@ -2,6 +2,8 @@
 Repository including Duvernoy's gland transcriptomes from Thamnophis sp. 
 
 
-These transcriptomes are fromm the Duvernoy's gland (venom gland) of 16 species of Thamnophis. 
+These annotated transcriptomes are from the Duvernoy's gland (venom gland) of 16 species of Thamnophis. You can also access unannotated transcriptomes at ...
 
-Additionally, this repository includes any published code required to generate these transcriptomes. 
+Published in ....
+
+
