@@ -5,4 +5,4 @@ These annotated transcriptomes are from the Duvernoy's gland (venom gland) of 16
 
 Published in ....
 
-
+The pipeline and code used for this annotation can be found at https://github.com/theptin/ToxCodAn/tree/master/Guide .
